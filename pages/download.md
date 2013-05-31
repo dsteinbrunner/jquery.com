@@ -76,7 +76,7 @@ if the visitor to your webpage has already downloaded a copy of jQuery from the 
 ### Using jQuery's CDN provided by [MediaTemple](http://mediatemple.net)
 
 ```
-<script src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 ```
 
